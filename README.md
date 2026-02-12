@@ -50,12 +50,9 @@ The goal of these tasks was to learn by doing—moving from manual Python calcul
 ---
 
 ## 👤 Author
-**Injeela Ansari** *Final Year Student | Data Science & Business Analytics* *HSNC University*
+**Injeela Ansari** 
+*Final Year Student | Data Science & Business Analytics* *HSNC University*
 
----
-
-### 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/injeela-ansari/Data-Cleaning-Project.git](https://github.com/injeela-ansari/Data-Cleaning-Project.git)
+--
+https://github.com/injeela-ansari/Data-Cleaning-Project.git
   
