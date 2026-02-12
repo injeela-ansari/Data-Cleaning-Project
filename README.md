@@ -1,5 +1,3 @@
-# Data-Cleaning-Project
-Data cleaning and preprocessing tasks performed as part of my Data Science internship at Nascent IT Ventures.
 # 🚀 Data Science Internship - Month 1 Practical Tasks
 
 Welcome to my repository for the **Data Science Internship at Nascent IT Ventures**. This project contains a series of execution-focused tasks completed during the first month, covering Python basics, Data Manipulation, Cleaning, and Exploratory Data Analysis (EDA).
