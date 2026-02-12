@@ -1,0 +1,601 @@
+OrderID,Category,Price,Quantity,CustomerRating
+1,Automotive,993.04,9,1.6
+2,Sports,83.06,15,2.7
+3,Home & Garden,558.32,17,1.6
+4,Sports,969.61,4,1.9
+5,Sports,527.87,12,4.5
+6,Clothing,633.1,5,2.9
+7,Home & Garden,698.79,5,3.1
+8,Home & Garden,460.0,11,1.7
+9,Home & Garden,631.28,6,2.2
+10,Sports,588.47,7,1.9
+11,Automotive,902.15,14,1.8
+12,Home & Garden,54.99,11,3.6
+13,Sports,288.15,13,2.0
+14,Clothing,950.91,2,3.5
+15,Automotive,891.36,7,1.2
+16,Clothing,461.1,4,1.6
+17,Automotive,623.93,8,2.1
+18,Sports,284.61,19,3.4
+19,Electronics,196.24,13,3.7
+20,Automotive,469.06,14,2.8
+21,Clothing,359.82,10,2.8
+22,Sports,587.82,11,3.9
+23,Automotive,86.96,2,1.1
+24,Electronics,974.65,9,2.4
+25,Electronics,986.35,17,4.3
+26,Home & Garden,701.18,3,3.4
+27,Home & Garden,540.74,6,2.3
+28,Clothing,316.43,5,4.6
+29,Automotive,815.66,5,4.1
+30,Automotive,687.88,15,2.1
+31,Home & Garden,170.99,17,3.6
+32,Automotive,911.82,9,3.4
+33,Automotive,824.31,3,2.6
+34,Electronics,950.3,17,2.5
+35,Home & Garden,728.46,10,2.4
+36,Sports,617.28,3,3.5
+37,Home & Garden,424.06,18,2.8
+38,Sports,933.4,18,4.3
+39,Electronics,867.4,17,3.7
+40,Clothing,54.77,3,1.3
+41,Automotive,36.1,3,3.6
+42,Electronics,382.7,6,2.1
+43,Automotive,812.45,13,3.4
+44,Clothing,987.4,15,3.7
+45,Clothing,158.91,9,1.9
+46,Electronics,598.19,4,2.8
+47,Clothing,387.08,14,1.8
+48,Sports,970.22,5,1.2
+49,Clothing,843.7,2,2.5
+50,Automotive,839.95,11,2.5
+51,Automotive,474.01,9,5.0
+52,Automotive,420.67,3,2.8
+53,Automotive,280.67,9,2.3
+54,Sports,65.81,3,3.3
+55,Home & Garden,866.08,2,1.4
+56,Electronics,814.77,12,4.8
+57,Automotive,999.72,10,3.5
+58,Clothing,996.67,9,4.0
+59,Automotive,559.88,15,1.7
+60,Clothing,771.3,8,2.6
+61,Clothing,945.32,5,2.7
+62,Automotive,851.15,11,4.3
+63,Sports,254.87,2,1.0
+64,Clothing,456.04,15,2.2
+65,Clothing,137.87,6,4.9
+66,Automotive,954.51,8,2.9
+67,Clothing,610.11,5,2.5
+68,Clothing,236.36,16,1.5
+69,Automotive,674.98,18,4.9
+70,Automotive,621.95,6,1.1
+71,Electronics,364.58,5,3.9
+72,Sports,122.42,16,4.1
+73,Sports,674.86,13,2.0
+74,Clothing,525.1,5,3.7
+75,Sports,774.6,13,1.4
+76,Clothing,524.96,17,2.0
+77,Electronics,853.66,18,4.2
+78,Automotive,556.39,8,4.5
+79,Automotive,565.33,13,3.4
+80,Automotive,877.89,19,3.0
+81,Sports,409.45,3,1.6
+82,Electronics,142.68,8,1.3
+83,Sports,38.49,2,1.5
+84,Sports,757.59,8,1.9
+85,Electronics,624.11,13,2.4
+86,Electronics,707.04,13,2.5
+87,Electronics,220.83,1,2.4
+88,Electronics,145.01,6,2.0
+89,Automotive,24.4,19,3.0
+90,Home & Garden,357.08,16,4.3
+91,Home & Garden,594.02,8,2.1
+92,Electronics,398.32,1,4.8
+93,Home & Garden,443.1,16,4.5
+94,Home & Garden,905.12,9,1.6
+95,Electronics,354.77,13,4.1
+96,Home & Garden,518.85,11,3.3
+97,Sports,785.82,13,3.3
+98,Clothing,402.58,10,2.6
+99,Clothing,625.87,4,3.0
+100,Electronics,863.74,6,2.6
+101,Automotive,950.03,7,3.2
+102,Electronics,155.6,5,3.5
+103,Automotive,927.32,11,3.7
+104,Clothing,497.2,13,3.1
+105,Electronics,265.66,19,3.9
+106,Sports,464.54,10,1.6
+107,Home & Garden,980.23,10,1.8
+108,Automotive,497.69,11,4.3
+109,Home & Garden,335.46,7,2.3
+110,Home & Garden,637.07,18,1.1
+111,Electronics,247.74,4,1.6
+112,Home & Garden,85.1,2,1.9
+113,Sports,137.59,14,4.8
+114,Home & Garden,136.77,13,3.3
+115,Electronics,160.38,12,4.7
+116,Sports,147.44,7,3.3
+117,Clothing,644.47,2,2.9
+118,Home & Garden,190.06,13,2.3
+119,Electronics,352.21,14,3.4
+120,Clothing,897.82,17,1.6
+121,Clothing,479.22,9,4.6
+122,Automotive,670.88,17,4.3
+123,Sports,180.6,8,2.3
+124,Home & Garden,200.37,2,4.8
+125,Electronics,50.46,13,4.3
+126,Automotive,177.25,3,3.7
+127,Sports,285.8,16,1.5
+128,Automotive,185.24,6,2.9
+129,Sports,97.82,19,3.0
+130,Sports,129.43,7,1.9
+131,Home & Garden,466.17,10,1.3
+132,Sports,214.27,9,4.1
+133,Automotive,370.63,2,1.5
+134,Sports,508.38,15,3.4
+135,Home & Garden,693.49,5,4.7
+136,Home & Garden,48.92,4,4.5
+137,Automotive,801.42,4,2.1
+138,Clothing,631.62,18,4.4
+139,Clothing,90.94,4,1.0
+140,Sports,874.84,17,1.1
+141,Electronics,921.66,12,3.4
+142,Sports,70.47,17,2.5
+143,Automotive,284.11,10,2.5
+144,Automotive,808.14,1,3.3
+145,Automotive,750.78,18,1.8
+146,Automotive,192.68,18,1.8
+147,Automotive,217.26,14,2.9
+148,Home & Garden,376.77,15,4.0
+149,Clothing,489.68,12,3.5
+150,Automotive,622.07,4,2.2
+151,Electronics,375.22,3,2.7
+152,Electronics,467.91,12,1.7
+153,Electronics,750.0,7,1.3
+154,Electronics,46.32,11,4.1
+155,Home & Garden,259.91,1,2.1
+156,Electronics,716.22,6,1.7
+157,Automotive,896.25,15,3.8
+158,Sports,516.56,15,3.5
+159,Electronics,536.79,19,3.5
+160,Home & Garden,116.1,11,1.9
+161,Home & Garden,452.94,2,1.9
+162,Electronics,537.29,14,1.9
+163,Sports,250.05,2,1.7
+164,Electronics,276.55,4,3.6
+165,Home & Garden,383.51,17,4.4
+166,Clothing,29.87,3,3.9
+167,Automotive,328.86,13,4.2
+168,Home & Garden,219.33,9,2.6
+169,Electronics,334.22,7,3.6
+170,Automotive,128.56,15,2.4
+171,Electronics,891.62,11,3.1
+172,Electronics,597.66,2,2.9
+173,Clothing,682.31,15,1.7
+174,Automotive,791.28,14,2.5
+175,Automotive,503.46,11,4.9
+176,Clothing,96.05,3,2.0
+177,Home & Garden,541.74,17,1.5
+178,Electronics,590.97,12,2.7
+179,Sports,747.99,15,4.2
+180,Electronics,437.34,16,3.3
+181,Electronics,136.3,5,3.7
+182,Home & Garden,290.94,6,1.8
+183,Electronics,369.45,19,3.5
+184,Clothing,649.46,5,2.3
+185,Clothing,575.07,3,4.3
+186,Automotive,362.54,1,3.5
+187,Sports,986.65,6,1.8
+188,Electronics,609.72,15,1.3
+189,Electronics,244.85,2,1.2
+190,Home & Garden,110.76,3,2.5
+191,Clothing,161.33,17,2.1
+192,Sports,253.5,12,3.6
+193,Automotive,169.07,18,3.0
+194,Clothing,194.7,15,2.1
+195,Automotive,292.24,12,1.6
+196,Home & Garden,181.64,16,1.5
+197,Home & Garden,897.8,8,4.5
+198,Electronics,89.43,14,2.0
+199,Sports,529.27,17,3.6
+200,Automotive,416.29,8,4.2
+201,Clothing,982.55,15,3.5
+202,Home & Garden,120.92,14,4.4
+203,Electronics,403.88,18,2.6
+204,Electronics,969.78,7,4.8
+205,Automotive,866.85,3,1.5
+206,Home & Garden,818.9,12,1.4
+207,Sports,265.32,3,3.6
+208,Home & Garden,179.18,14,4.8
+209,Automotive,671.96,15,4.2
+210,Automotive,930.08,14,1.3
+211,Home & Garden,561.2,7,2.1
+212,Automotive,575.9,17,4.7
+213,Home & Garden,287.18,12,2.0
+214,Clothing,771.8,4,4.1
+215,Home & Garden,195.17,9,4.3
+216,Home & Garden,330.44,6,3.0
+217,Automotive,431.18,16,2.5
+218,Automotive,512.53,2,2.8
+219,Electronics,249.99,8,1.9
+220,Electronics,123.69,11,4.6
+221,Clothing,614.51,13,2.8
+222,Electronics,295.74,17,4.5
+223,Home & Garden,585.43,8,1.4
+224,Automotive,162.82,18,5.0
+225,Electronics,486.33,18,2.8
+226,Electronics,537.26,14,1.2
+227,Clothing,61.31,15,1.2
+228,Clothing,343.24,6,4.0
+229,Home & Garden,143.07,11,3.6
+230,Automotive,72.74,13,4.2
+231,Clothing,990.06,1,1.4
+232,Electronics,329.13,6,1.1
+233,Automotive,811.78,9,3.0
+234,Automotive,262.09,8,2.6
+235,Electronics,684.69,11,2.8
+236,Clothing,762.63,19,5.0
+237,Electronics,599.68,9,4.9
+238,Automotive,476.86,17,4.8
+239,Sports,417.72,12,4.1
+240,Sports,355.38,14,2.4
+241,Home & Garden,930.23,15,2.6
+242,Electronics,832.31,16,3.2
+243,Electronics,965.38,1,4.3
+244,Home & Garden,133.05,10,1.3
+245,Home & Garden,733.56,8,2.7
+246,Home & Garden,938.96,18,1.3
+247,Automotive,189.42,1,3.1
+248,Electronics,75.83,2,4.6
+249,Automotive,743.71,1,4.1
+250,Home & Garden,578.73,1,1.9
+251,Electronics,843.41,9,4.9
+252,Automotive,148.37,13,3.7
+253,Automotive,797.31,1,1.0
+254,Home & Garden,209.61,13,2.0
+255,Electronics,172.02,7,2.0
+256,Home & Garden,172.62,2,1.3
+257,Electronics,816.43,6,4.8
+258,Sports,668.55,7,2.9
+259,Clothing,527.83,14,4.6
+260,Clothing,365.24,18,2.3
+261,Clothing,878.43,15,1.5
+262,Home & Garden,398.52,2,2.9
+263,Sports,818.43,10,1.5
+264,Electronics,444.74,12,2.9
+265,Automotive,383.17,17,4.7
+266,Electronics,468.05,8,3.1
+267,Automotive,308.36,11,3.5
+268,Electronics,750.13,3,1.6
+269,Sports,507.69,6,1.2
+270,Automotive,239.89,9,1.4
+271,Home & Garden,900.58,6,3.4
+272,Electronics,390.05,9,1.4
+273,Electronics,548.12,7,2.5
+274,Automotive,907.41,9,3.2
+275,Home & Garden,628.0,18,2.6
+276,Home & Garden,125.73,12,1.7
+277,Sports,940.43,8,2.1
+278,Home & Garden,631.43,8,4.7
+279,Home & Garden,341.56,18,3.7
+280,Home & Garden,147.88,15,3.0
+281,Clothing,796.08,7,1.1
+282,Sports,623.87,11,5.0
+283,Electronics,538.13,16,3.7
+284,Automotive,894.95,4,2.3
+285,Electronics,790.71,6,4.5
+286,Sports,160.16,3,2.0
+287,Automotive,318.6,9,3.2
+288,Sports,256.0,10,3.5
+289,Home & Garden,746.51,14,1.9
+290,Automotive,43.2,11,4.9
+291,Home & Garden,574.19,18,4.0
+292,Electronics,764.83,12,3.2
+293,Electronics,878.0,12,1.7
+294,Automotive,348.66,13,1.2
+295,Automotive,823.04,13,2.3
+296,Sports,119.53,19,4.0
+297,Sports,847.99,19,2.1
+298,Home & Garden,136.21,14,3.2
+299,Automotive,403.31,4,3.9
+300,Electronics,799.32,13,1.4
+301,Sports,158.42,8,3.7
+302,Sports,236.96,19,1.4
+303,Electronics,725.03,12,4.9
+304,Sports,722.84,18,3.0
+305,Home & Garden,644.74,6,1.6
+306,Automotive,697.01,18,2.4
+307,Electronics,547.3,19,2.7
+308,Automotive,259.28,5,4.0
+309,Sports,352.24,9,4.0
+310,Sports,189.78,3,3.4
+311,Electronics,909.37,10,1.4
+312,Home & Garden,587.56,19,1.6
+313,Clothing,406.84,3,1.4
+314,Electronics,467.39,15,3.3
+315,Clothing,947.81,1,4.5
+316,Clothing,161.82,7,2.7
+317,Home & Garden,590.37,12,1.6
+318,Clothing,510.83,17,3.2
+319,Clothing,615.34,5,4.2
+320,Home & Garden,27.93,4,4.0
+321,Clothing,873.4,12,4.5
+322,Clothing,932.8,18,2.1
+323,Clothing,569.48,17,1.8
+324,Electronics,699.68,19,4.5
+325,Electronics,923.27,9,3.6
+326,Electronics,710.17,4,2.2
+327,Home & Garden,161.01,2,4.0
+328,Sports,580.53,4,4.3
+329,Clothing,610.65,2,3.5
+330,Clothing,429.89,15,3.8
+331,Home & Garden,739.08,2,2.5
+332,Clothing,935.02,4,3.2
+333,Electronics,926.31,6,3.1
+334,Sports,456.33,7,4.4
+335,Automotive,122.11,10,4.4
+336,Clothing,984.99,19,4.3
+337,Electronics,840.51,19,1.0
+338,Automotive,133.42,12,4.0
+339,Sports,921.63,3,4.0
+340,Automotive,871.2,13,3.7
+341,Electronics,523.65,18,4.0
+342,Automotive,595.36,8,4.4
+343,Home & Garden,405.01,15,2.9
+344,Automotive,64.21,1,3.0
+345,Clothing,341.85,3,1.5
+346,Clothing,804.82,8,2.5
+347,Home & Garden,14.59,4,3.6
+348,Electronics,340.16,16,4.1
+349,Clothing,404.19,10,1.9
+350,Sports,542.02,12,1.6
+351,Clothing,920.66,14,3.7
+352,Clothing,352.88,14,1.0
+353,Electronics,353.48,2,1.7
+354,Automotive,740.13,5,1.1
+355,Clothing,457.7,5,1.7
+356,Home & Garden,232.36,6,1.7
+357,Automotive,457.92,13,2.6
+358,Sports,149.45,9,2.6
+359,Electronics,184.62,15,4.5
+360,Sports,503.38,14,3.0
+361,Automotive,424.74,7,3.9
+362,Automotive,915.7,2,1.4
+363,Automotive,368.77,7,1.9
+364,Sports,584.78,6,3.8
+365,Automotive,635.94,17,1.2
+366,Sports,22.96,2,2.9
+367,Automotive,666.9,3,3.4
+368,Home & Garden,186.26,5,3.4
+369,Automotive,961.46,5,1.1
+370,Sports,157.18,1,2.3
+371,Clothing,420.48,8,3.5
+372,Automotive,94.5,12,1.6
+373,Clothing,996.91,4,3.8
+374,Home & Garden,507.17,13,4.0
+375,Electronics,599.43,15,4.9
+376,Home & Garden,76.41,11,1.8
+377,Automotive,752.46,10,4.3
+378,Clothing,217.81,3,3.1
+379,Clothing,899.07,14,2.5
+380,Sports,213.09,16,1.5
+381,Clothing,198.78,10,3.9
+382,Sports,46.18,10,1.9
+383,Electronics,477.35,12,2.5
+384,Automotive,569.19,9,1.3
+385,Sports,75.05,1,4.2
+386,Electronics,777.77,5,4.1
+387,Clothing,458.76,8,3.9
+388,Clothing,529.15,11,2.2
+389,Electronics,446.36,12,1.7
+390,Clothing,406.76,1,3.6
+391,Electronics,564.04,11,3.0
+392,Sports,163.69,5,1.7
+393,Sports,190.11,15,3.7
+394,Electronics,863.17,5,5.0
+395,Sports,946.65,12,4.0
+396,Sports,379.58,5,4.0
+397,Sports,278.04,17,4.8
+398,Home & Garden,647.56,17,1.8
+399,Automotive,414.65,12,3.3
+400,Clothing,35.13,15,4.9
+401,Home & Garden,164.59,15,1.7
+402,Sports,718.81,6,3.8
+403,Electronics,662.33,12,3.3
+404,Sports,36.83,18,3.3
+405,Automotive,229.75,14,3.8
+406,Sports,238.76,2,4.7
+407,Electronics,675.17,9,4.1
+408,Automotive,29.51,5,1.2
+409,Sports,113.07,1,4.4
+410,Automotive,801.92,3,1.9
+411,Clothing,186.76,6,2.5
+412,Clothing,656.22,5,2.8
+413,Sports,245.8,5,2.9
+414,Automotive,108.45,1,2.7
+415,Electronics,250.74,17,4.7
+416,Sports,725.04,19,3.8
+417,Clothing,857.14,14,3.5
+418,Clothing,831.92,12,1.2
+419,Sports,403.21,10,4.6
+420,Automotive,671.4,18,4.6
+421,Clothing,212.93,11,4.1
+422,Automotive,300.22,2,1.0
+423,Clothing,897.37,18,1.2
+424,Clothing,22.87,7,1.9
+425,Home & Garden,94.65,15,1.5
+426,Clothing,215.81,11,2.6
+427,Electronics,36.27,18,4.7
+428,Sports,189.62,12,2.9
+429,Sports,587.21,6,1.1
+430,Automotive,427.21,13,2.1
+431,Clothing,893.74,16,1.2
+432,Electronics,819.27,18,1.1
+433,Automotive,348.4,10,2.1
+434,Home & Garden,266.83,8,2.1
+435,Automotive,385.9,18,4.1
+436,Automotive,594.39,1,4.9
+437,Clothing,275.38,8,2.5
+438,Home & Garden,627.91,6,2.7
+439,Automotive,415.32,5,4.4
+440,Electronics,556.53,15,2.1
+441,Electronics,441.77,15,1.6
+442,Sports,301.52,2,4.4
+443,Home & Garden,948.97,1,1.2
+444,Home & Garden,765.97,11,3.5
+445,Sports,148.71,10,3.2
+446,Automotive,869.78,18,2.4
+447,Home & Garden,492.56,18,2.3
+448,Electronics,895.61,17,4.1
+449,Electronics,801.86,8,1.3
+450,Clothing,430.96,15,1.9
+451,Home & Garden,32.24,8,3.9
+452,Automotive,275.99,17,3.2
+453,Sports,546.22,12,1.5
+454,Sports,637.14,8,4.5
+455,Automotive,265.31,14,2.6
+456,Clothing,147.96,4,4.3
+457,Sports,836.58,1,4.2
+458,Home & Garden,984.56,1,3.5
+459,Clothing,530.43,19,3.0
+460,Home & Garden,179.96,16,4.9
+461,Electronics,279.58,14,1.6
+462,Clothing,28.21,16,3.9
+463,Sports,915.16,5,1.8
+464,Clothing,126.57,9,2.4
+465,Clothing,580.75,2,2.2
+466,Clothing,281.31,18,4.8
+467,Clothing,558.64,6,4.9
+468,Home & Garden,654.91,9,1.7
+469,Electronics,831.44,1,1.1
+470,Automotive,214.36,9,3.9
+471,Clothing,20.89,16,2.7
+472,Sports,145.52,13,1.4
+473,Clothing,901.02,9,3.7
+474,Sports,875.15,13,3.2
+475,Home & Garden,601.44,9,4.9
+476,Sports,604.51,11,1.9
+477,Automotive,668.39,4,2.6
+478,Electronics,183.62,2,3.2
+479,Sports,915.27,6,4.2
+480,Sports,424.58,14,3.2
+481,Electronics,389.31,4,3.5
+482,Automotive,523.73,6,1.9
+483,Clothing,56.5,19,4.4
+484,Sports,174.62,6,2.7
+485,Electronics,740.65,2,1.6
+486,Home & Garden,91.97,18,3.7
+487,Electronics,607.12,13,1.9
+488,Home & Garden,252.9,9,1.4
+489,Automotive,395.4,19,4.4
+490,Clothing,295.81,13,2.8
+491,Electronics,362.12,11,4.0
+492,Sports,721.86,1,2.2
+493,Automotive,304.15,7,4.1
+494,Electronics,570.74,15,1.4
+495,Sports,481.29,1,2.4
+496,Electronics,667.03,12,4.9
+497,Home & Garden,937.46,7,4.2
+498,Electronics,735.25,15,3.0
+499,Electronics,222.79,19,2.4
+500,Electronics,40.87,1,4.5
+501,Automotive,269.64,17,3.2
+502,Electronics,599.13,17,4.0
+503,Sports,60.91,3,4.0
+504,Home & Garden,501.4,12,1.1
+505,Home & Garden,600.87,6,1.5
+506,Electronics,340.9,11,3.6
+507,Automotive,773.2,3,1.6
+508,Automotive,115.53,8,2.0
+509,Sports,84.39,14,4.8
+510,Electronics,730.91,14,3.2
+511,Home & Garden,500.54,10,4.0
+512,Automotive,691.52,2,3.2
+513,Electronics,440.48,14,3.2
+514,Automotive,253.94,9,1.4
+515,Automotive,820.91,3,2.4
+516,Home & Garden,801.42,8,2.1
+517,Clothing,697.75,16,2.6
+518,Sports,279.42,2,4.2
+519,Sports,594.33,6,2.5
+520,Home & Garden,367.36,12,2.8
+521,Automotive,100.67,5,2.6
+522,Electronics,918.14,2,1.4
+523,Automotive,145.45,16,2.8
+524,Home & Garden,950.73,5,1.8
+525,Sports,451.55,15,1.7
+526,Automotive,193.28,12,1.4
+527,Sports,546.48,4,2.4
+528,Electronics,874.22,15,4.0
+529,Sports,734.9,11,2.1
+530,Sports,808.5,16,2.2
+531,Clothing,662.2,6,3.6
+532,Clothing,695.35,14,1.8
+533,Clothing,850.7,18,4.6
+534,Sports,257.17,12,3.1
+535,Home & Garden,494.53,11,2.8
+536,Sports,229.0,13,3.2
+537,Home & Garden,987.79,11,1.7
+538,Home & Garden,944.62,16,3.5
+539,Clothing,49.03,15,2.5
+540,Automotive,708.52,15,4.6
+541,Electronics,926.0,4,1.7
+542,Clothing,188.77,11,3.0
+543,Clothing,572.27,19,3.4
+544,Automotive,916.33,15,1.1
+545,Electronics,43.61,4,2.5
+546,Sports,700.45,13,3.9
+547,Sports,304.38,19,4.3
+548,Clothing,925.15,2,2.3
+549,Electronics,971.35,14,4.2
+550,Clothing,944.82,4,4.9
+551,Home & Garden,479.47,16,4.4
+552,Clothing,863.42,14,1.5
+553,Clothing,846.1,15,4.0
+554,Sports,325.91,3,2.3
+555,Sports,830.63,8,5.0
+556,Sports,46.64,16,2.9
+557,Home & Garden,600.31,10,1.5
+558,Sports,237.71,4,3.9
+559,Electronics,129.36,18,2.3
+560,Automotive,86.18,2,5.0
+561,Electronics,699.33,17,4.9
+562,Electronics,346.48,13,3.6
+563,Sports,727.52,4,1.5
+564,Automotive,74.7,11,3.7
+565,Automotive,322.14,7,1.4
+566,Automotive,544.1,12,1.1
+567,Home & Garden,792.82,10,4.3
+568,Sports,325.56,7,1.8
+569,Automotive,629.63,13,2.5
+570,Home & Garden,887.12,7,4.9
+571,Clothing,619.7,17,2.3
+572,Clothing,240.63,10,2.2
+573,Home & Garden,34.16,10,4.7
+574,Home & Garden,871.4,4,1.4
+575,Sports,31.06,4,4.0
+576,Sports,875.95,7,5.0
+577,Clothing,533.65,1,4.6
+578,Automotive,939.68,12,3.6
+579,Clothing,800.8,13,2.3
+580,Automotive,997.95,10,2.0
+581,Automotive,357.2,15,4.3
+582,Sports,769.52,13,4.5
+583,Electronics,407.91,9,3.1
+584,Electronics,485.08,9,2.0
+585,Home & Garden,631.23,15,1.5
+586,Sports,874.94,10,1.3
+587,Automotive,984.24,10,3.9
+588,Electronics,770.59,8,2.7
+589,Automotive,423.59,16,4.6
+590,Electronics,427.14,17,4.0
+591,Electronics,740.21,5,1.8
+592,Electronics,246.39,4,3.5
+593,Sports,119.37,18,2.7
+594,Clothing,361.08,19,3.3
+595,Automotive,294.37,4,4.0
+596,Sports,303.35,7,4.2
+597,Sports,241.27,10,4.4
+598,Sports,51.67,18,2.0
+599,Sports,27.7,19,1.1
+600,Sports,987.85,4,4.0
